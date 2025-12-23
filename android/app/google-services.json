@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "416315033087",
+    "firebase_url": "https://lib-dart-default-rtdb.firebaseio.com",
+    "project_id": "lib-dart",
+    "storage_bucket": "lib-dart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416315033087:android:b8c1cfc0f725bb9d4d13ca",
+        "android_client_info": {
+          "package_name": "com.example.mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAQqnz1-LA8tpmqLJOPCShDN2mC-Ra4X0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
